@@ -38,6 +38,9 @@ Part 1: Understanding Generics
 
         Edge: null values, Integer.MAX_VALUE, and compile-time error for invalid types.
 
+![image](https://github.com/user-attachments/assets/2d78e023-9507-4bbb-811e-c544faff0df3)
+
+
 Part 2: Advanced Generics
 
     Objective:
@@ -58,6 +61,9 @@ Part 2: Advanced Generics
 
         Edge: Empty string reversal, null box handling.
 
+![image](https://github.com/user-attachments/assets/543fa103-7d0b-4ef4-9d76-d3fa84c63193)
+
+
 Part 3: Practical Application
 
     Objective:
@@ -73,3 +79,5 @@ Part 3: Practical Application
         Normal: Add/remove books and IDs.
 
         Edge: Search empty library, remove non-existent items.
+
+![image](https://github.com/user-attachments/assets/3e0408c7-b43f-4633-af94-32e23f267c0f)
